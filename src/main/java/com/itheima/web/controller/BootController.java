@@ -20,7 +20,7 @@ public class BootController {
     public String printInfo(){
         System.out.println("spring running");
 
-        System.out.println("-----");
+
 
         return "hello springboot";
     }
