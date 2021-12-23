@@ -1,0 +1,14 @@
+logging:
+  level:
+    com.itheima.web: info
+    root: debug
+    ebank: info
+  group:
+    ebank: com.itheima.web.controller,com.itheima.dao
+
+
+debug: true
+
+
+
+
