@@ -20,8 +20,7 @@ public class BootController {
     public String printInfo(){
         System.out.println("spring running");
 
-        log.info("info...");
-        log.warning("warning...");
+        System.out.println("-----");
 
         return "hello springboot";
     }
